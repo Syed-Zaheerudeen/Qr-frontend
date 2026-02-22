@@ -21,7 +21,7 @@ An simple QR code component
 
 ### Screenshot
 
-[](/qr-code-component/design/desktop-design.jpg)
+![Desktop Desigh](design/desktop-design.jpg)
 
 ### Links
 
